@@ -28,7 +28,7 @@ Skills
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*my contact information to get to me.*
 <table>
   <tbody>
     <tr>
