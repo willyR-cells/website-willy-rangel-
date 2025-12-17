@@ -50,7 +50,7 @@ A command line Hangman game built in Python. You guess letters, track wrong gues
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/willyR-cells">My Github profile</a></td>
     </tr>
     <tr>
       <td>🌐</td>
