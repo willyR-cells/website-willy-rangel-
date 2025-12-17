@@ -2,19 +2,22 @@ Willy Rangel Portfolio website
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello!  a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi, my name is Willy Rangel. You are a student learning computer programming with a focus on Python. You build small projects and games to practice logic and problem solving.
+You worked on projects such as a Hangman game, a To Do List app, and class assignments using functions, loops, and user input. You want to keep improving your coding skills and move toward larger and real world projects.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*add*
+Skills
+• Python beginner to intermediate
+• Loops and conditionals
+• Functions
+• Basic debugging
+• Command line programs
+• GitHub basics
+• Problem solving
 
-**-add**
-add
-
-**- add**
-add
 
 
 <!--Section 2: List 3-4 key projects-->
