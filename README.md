@@ -22,7 +22,12 @@ Skills
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
-
+Project name
+• Short description
+• What you learned
+• Link to the code
+Hangman Game Python
+A command line Hangman game built in Python. You guess letters, track wrong guesses, and end the game when the word is solved or attempts run out.
 
 
 
@@ -49,11 +54,6 @@ Skills
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/willy-rangel-b5510b327">a link to my linkedin</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
