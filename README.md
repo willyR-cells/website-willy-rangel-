@@ -73,6 +73,6 @@ Basic Databases
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/willy-rangel-b5510b327">a link to my linkedin</a></td>
+      <td><a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">a link to my linkedin</a></td>
     </tr>
     <tr>
