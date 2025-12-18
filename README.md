@@ -41,12 +41,12 @@ Managed time and multitasking during peak hours
 
 
 ## 🎓 EDUCATION
-• College Student — Computer Science / Related Field
-• Currently Enrolled
-• Relevant Coursework:
-• Introduction to Programming
-• Problem Solving with Python
-• Basic Databases
+College Student — Computer Science / Related Field
+Currently Enrolled
+Relevant Coursework:
+Introduction to Programming
+Problem Solving with Python
+Basic Databases
 
 
 
