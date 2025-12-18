@@ -28,7 +28,7 @@ Project name
 • Link to the code
 Hangman Game Python
 A command line Hangman game built in Python. You guess letters, track wrong guesses, and end the game when the word is solved or attempts run out.
-<td><a href="https://onlinegdb.com/exbhzmVFjv"</a></td>
+<td><a href="https://onlinegdb.com/exbhzmVFjv"> Hangman game</a></td>
 
 
 
