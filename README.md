@@ -19,7 +19,7 @@ Skills
 
 
 <!--Section 2: List 3-4 key projects-->
-## 📂 MY PORTFOLIO 
+## 📂 MY PORTFOLIO  
 Project name
 • Short description
 • What you learned
@@ -30,7 +30,8 @@ A command line Hangman game built in Python. You guess letters, track wrong gues
 
 
 
-##💼 Experience
+## 💼 EXPERIENCE 
+
 Crew Member — Dunkin’
 Edinburg, TX
 Delivered fast and friendly customer service
@@ -39,13 +40,13 @@ Collaborated with team members to maintain store operations
 Managed time and multitasking during peak hours
 
 
-🎓 Education
-College Student — Computer Science / Related Field
-Currently Enrolled
-Relevant Coursework:
-Introduction to Programming
-Problem Solving with Python
-Basic Databases
+## 🎓 EDUCATION
+• College Student — Computer Science / Related Field
+• Currently Enrolled
+• Relevant Coursework:
+• Introduction to Programming
+• Problem Solving with Python
+• Basic Databases
 
 
 
